@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "7346330417",
+    "project_id": "heybit---habit-tracking",
+    "storage_bucket": "heybit---habit-tracking.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:7346330417:android:50bcf9b47f119d461f2e10",
+        "android_client_info": {
+          "package_name": "com.example.hey_bit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "7346330417-oaa2sp8nmfb7eimq8j9alo4g21erfreb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPN6m3b3PGJ9pt0710nTOTtWTxRIgQyn0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "7346330417-oaa2sp8nmfb7eimq8j9alo4g21erfreb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "7346330417-ectv96hbeb9a1ggoo4rjbrgcmf5m1hg8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.heyBit"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
